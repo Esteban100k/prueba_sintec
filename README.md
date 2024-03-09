@@ -41,7 +41,7 @@ php artisan db:seed --class=EstadosSeeder
 Y finalmente el siguiente comando para crear el usuario por defecto con el cual vamos a iniciar sesión
 
 ```bash
-php artisan db:seed --class=EstadosSeeder
+php artisan db:seed --class=UserSeeder
 ```
 
 Podemos ejecutar el proyecto backend con el siguiente comando:
